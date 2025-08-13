@@ -1,2 +1,23 @@
 node_modules/
+dist/
 
+coverage/
+/generated/prisma
+.env
+prisma/.env
+# OS generated files
+.DS_Store
+Thumbs.db
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+.env.local
+
+.DS_Store
+Thumbs.db
+npm-debug.log
+prisma/.env
+prisma/migrations/*
